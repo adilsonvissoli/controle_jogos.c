@@ -1,0 +1,18 @@
+Nome do jogo........: ATARI
+Ano de lançamento...: 1976
+Gênero do jogo......: ACAO
+Produtora do jogo...: ATARIO
+Valor...............: 23154.00
+
+Nome do jogo........: ZELDA
+Ano de lançamento...: 1990
+Gênero do jogo......: OPEN WORLD
+Produtora do jogo...: NINTENDO
+Valor...............: 12312.00
+
+Nome do jogo........: MARIO KARD
+Ano de lançamento...: 1900
+Gênero do jogo......: AVENTURA
+Produtora do jogo...: NINTENDO
+Valor...............: 121312.00
+
